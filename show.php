@@ -66,5 +66,6 @@
       function logout(){        
           session.invalidate();
       }
+ </script>
 </body>
 </html>
